@@ -1,4 +1,4 @@
-//
+
 // It is possible that the manager for a user did not exist in the database when
 // the user was processed and therefore we could not locate and set the manager field.
 // The processManagers call below will find all those records for which a manager could
