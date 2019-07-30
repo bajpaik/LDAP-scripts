@@ -1,0 +1,5 @@
+
+//
+//  ldapUtils.setMemberField('u_yourAttributeNameGoesHere');
+//
+ldapUtils.addMembers(source, target);
